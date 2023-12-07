@@ -1,0 +1,8 @@
+C:\Users\GUVEN\source\repos\metotlar\metotlar\bin\Debug\metotlar.exe.config
+C:\Users\GUVEN\source\repos\metotlar\metotlar\bin\Debug\metotlar.exe
+C:\Users\GUVEN\source\repos\metotlar\metotlar\bin\Debug\metotlar.pdb
+C:\Users\GUVEN\source\repos\metotlar\metotlar\obj\Debug\metotlar.csproj.AssemblyReference.cache
+C:\Users\GUVEN\source\repos\metotlar\metotlar\obj\Debug\metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUVEN\source\repos\metotlar\metotlar\obj\Debug\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\GUVEN\source\repos\metotlar\metotlar\obj\Debug\metotlar.exe
+C:\Users\GUVEN\source\repos\metotlar\metotlar\obj\Debug\metotlar.pdb

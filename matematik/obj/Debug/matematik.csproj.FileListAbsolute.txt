@@ -1,0 +1,8 @@
+C:\Users\GUVEN\source\repos\metotlar\matematik\bin\Debug\matematik.exe.config
+C:\Users\GUVEN\source\repos\metotlar\matematik\bin\Debug\matematik.exe
+C:\Users\GUVEN\source\repos\metotlar\matematik\bin\Debug\matematik.pdb
+C:\Users\GUVEN\source\repos\metotlar\matematik\obj\Debug\matematik.csproj.AssemblyReference.cache
+C:\Users\GUVEN\source\repos\metotlar\matematik\obj\Debug\matematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUVEN\source\repos\metotlar\matematik\obj\Debug\matematik.csproj.CoreCompileInputs.cache
+C:\Users\GUVEN\source\repos\metotlar\matematik\obj\Debug\matematik.exe
+C:\Users\GUVEN\source\repos\metotlar\matematik\obj\Debug\matematik.pdb

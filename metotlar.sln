@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotlar", "metotlar\metotlar.csproj", "{A46AA992-507F-4F81-A421-40D1087805B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matematik", "matematik\matematik.csproj", "{8C33DA5A-BC5E-42D3-B883-82A7129AF1F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansGelistirme", "DegerveReferansGelistirme\DegerveReferansGelistirme.csproj", "{1056B7B7-851F-4CFD-9D04-9FE7D286A49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46AA992-507F-4F81-A421-40D1087805B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46AA992-507F-4F81-A421-40D1087805B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46AA992-507F-4F81-A421-40D1087805B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46AA992-507F-4F81-A421-40D1087805B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C33DA5A-BC5E-42D3-B883-82A7129AF1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C33DA5A-BC5E-42D3-B883-82A7129AF1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C33DA5A-BC5E-42D3-B883-82A7129AF1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C33DA5A-BC5E-42D3-B883-82A7129AF1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1056B7B7-851F-4CFD-9D04-9FE7D286A49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1056B7B7-851F-4CFD-9D04-9FE7D286A49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1056B7B7-851F-4CFD-9D04-9FE7D286A49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1056B7B7-851F-4CFD-9D04-9FE7D286A49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20B980D-8A85-4E95-85CB-E164B9220CAF}
+	EndGlobalSection
+EndGlobal
